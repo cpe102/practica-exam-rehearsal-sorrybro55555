@@ -1,6 +1,12 @@
 #include <iostream>
+#include <cmath>
+using namespace std;
 
-//Write sumSqrt() here.
+double sumSqrt(int N){
+        return 0;
+    }
+
+
 
 
 int main()
